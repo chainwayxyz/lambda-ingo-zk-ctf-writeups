@@ -1,6 +1,6 @@
 # Lambda-Ingo ZK CTF Writeups
 
-[Lambda Ingo ZK CTF](https://ctf.ingonyama.com/) is a Capture-the-flag competition held from Julu 14-16, 2023, was primarily focused on Zero-knowledge (ZK) and general cryptography. The contest was organized by LambdaClass and Ingonyama.
+[Lambda Ingo ZK CTF](https://ctf.ingonyama.com/) is a Capture-the-flag competition held from July 14-16, 2023, was primarily focused on Zero-knowledge (ZK) and general cryptography. The contest was organized by LambdaClass and Ingonyama.
 
 
 ## Challenge Write-ups
