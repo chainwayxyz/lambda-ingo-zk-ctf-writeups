@@ -36,5 +36,3 @@ let proof_data = ChallengeProofData {
 };
 ```
 
-#### Overview
-
