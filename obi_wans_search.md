@@ -53,7 +53,7 @@ $P_a(x)$ polynomial has evaluations indicated below
 
 We know all the evaluations except for $P_a(ω^2)=x$. However, in addition to these, we also know the evaluation at ζ residing in the `a_zeta` field of the proof. Normally, this would be the evaluation of the **blinded** polynomial but since the blinding is bypassed, we get an extra evaluation of our main polynomial.
 
-- $P_a(ζ)=$proof.a_zeta
+- $P_a(ζ)=$ proof.a_zeta
 
 Using [**Lagrance Interpolation**](https://en.wikipedia.org/wiki/Lagrange_polynomial), we can reconstruct the polynomial and get its evalution at $ω^2$, effectively obtaining **x**.
 
