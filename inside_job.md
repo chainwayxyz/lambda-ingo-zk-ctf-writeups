@@ -69,5 +69,3 @@ let proof_vec: Vec<u8> = serde_cbor::to_vec(&x).expect("Failed serialization");
 
 Submitting the proof to the server gives the flag.
 
-#### Overview
-
